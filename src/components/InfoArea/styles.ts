@@ -1,13 +1,13 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    background-color: white;
-    box-shadow: 0 0 5px #CCC;
+    background-color: black;
     border-radius: 10px;
     padding: 20px;
     margin-top: -40px;
     display: flex;
     align-items: center;
+    color: white;
 `;
 
 export const MonthArea = styled.div`
@@ -31,5 +31,7 @@ export const MonthArrow = styled.div`
 export const MonthTitle = styled.div`
     flex: 1;
     text-align: center;
+    font-weight: bold;
+    font-size: 22px;
 `;
 
