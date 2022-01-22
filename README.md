@@ -16,6 +16,6 @@ Balanço: saldo restante "Receita - Despesa"
 
 ### Como rodar o projeto:
 O projeto foi criado com VITE, você deve digitar em seu terminal:
-### npm install
+#### npm install
 #### npm run dev 
 em seguida localhost:3000 em seu navegador.
