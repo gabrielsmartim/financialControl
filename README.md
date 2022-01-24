@@ -15,7 +15,7 @@ Balanço: saldo restante "Receita - Despesa"
 1. Node15+
 
 ### Como rodar o projeto:
-O projeto foi criado com VITE, você deve digitar em seu terminal:
+O projeto foi criado com VITE, portanto depois de clonar o repositório digite em seu terminal:
 #### npm install
 #### npm run dev 
 em seguida localhost:3000 em seu navegador.
